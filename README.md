@@ -1,2 +1,1 @@
-# MChinnam_ML
-ML_Python
+Image caption generation using the Huggingface Salesforec 
